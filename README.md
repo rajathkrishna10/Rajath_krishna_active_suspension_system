@@ -55,6 +55,19 @@ The controller improves:
 
 ---
 
+## 📷 Simulation Results
+
+### Uncontrolled Suspension Response
+Shows oscillatory behavior and slower settling time.
+
+### PID Controlled Suspension Response
+Shows improved damping and reduced oscillations.
+
+### Comparison Graph
+Comparison between uncontrolled and PID-controlled suspension responses demonstrating improved stability and ride comfort.
+
+---
+
 ## Expected Outcomes
 
 - Reduced vibrations  

@@ -19,6 +19,20 @@ The system uses a PID controller to improve damping behavior, reduce oscillation
 - Improve passenger comfort
 - Compare controlled and uncontrolled response
 
+##  Working Principle
+
+1. The suspension system receives disturbance from road bumps.
+2. The uncontrolled system produces oscillations and slower settling response.
+3. A PID controller is introduced to improve system performance.
+4. The controller continuously adjusts the control force based on system error.
+5. The controlled system achieves:
+   - Reduced oscillations
+   - Faster settling time
+   - Improved damping behavior
+   - Better ride comfort
+
+The system response is analyzed using MATLAB simulations and comparison graphs.
+
 ---
 
 ## System Description

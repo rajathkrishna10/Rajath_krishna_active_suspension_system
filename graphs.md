@@ -2,7 +2,7 @@
 
 <img width="1417" height="856" alt="image" src="https://github.com/user-attachments/assets/0747c22d-525e-4e70-91e8-ee5d0a205035" />
 
-##Blod plot
+##Bode plot
 
 <img width="1428" height="863" alt="image" src="https://github.com/user-attachments/assets/08ff38e7-ba21-47f1-a016-9e6dd8370097" />
 

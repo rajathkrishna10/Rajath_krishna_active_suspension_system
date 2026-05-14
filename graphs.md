@@ -1,15 +1,23 @@
-##uncontrolled suspension
+###comparison
 
-<img width="358" height="419" alt="image" src="https://github.com/user-attachments/assets/025ef867-0f43-4298-808f-a111ef509850" />
+<img width="1417" height="856" alt="image" src="https://github.com/user-attachments/assets/0747c22d-525e-4e70-91e8-ee5d0a205035" />
 
-##PID controller suspension
+##Blod plot
 
-<img width="330" height="427" alt="image" src="https://github.com/user-attachments/assets/10db757c-84db-4c58-afda-576b12817022" />
+<img width="1428" height="863" alt="image" src="https://github.com/user-attachments/assets/08ff38e7-ba21-47f1-a016-9e6dd8370097" />
 
-##comparsion
+##Root locus
 
+<img width="1375" height="827" alt="image" src="https://github.com/user-attachments/assets/4202e674-d067-475b-894a-d94232452ca5" />
 
-<img width="1410" height="857" alt="image" src="https://github.com/user-attachments/assets/9bbc9b86-3eda-4dc8-a941-b6ebbb01201b" />
+##sensitivity and controller effort
+
+<img width="702" height="423" alt="image" src="https://github.com/user-attachments/assets/bbdbb875-8962-47aa-8f60-ffe8b8a262f7" />
+
+##Pole zero map 
+
+<img width="692" height="419" alt="image" src="https://github.com/user-attachments/assets/5c2008ad-5265-4aa6-aaed-03206934303c" />
+
 
 
 ##Output without disturbance (PID controller is off)
